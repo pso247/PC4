@@ -1,0 +1,7 @@
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E3\bin\Debug\E3.exe.config
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E3\bin\Debug\E3.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E3\bin\Debug\E3.pdb
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E3\obj\Debug\E3.csproj.AssemblyReference.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E3\obj\Debug\E3.csproj.CoreCompileInputs.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E3\obj\Debug\E3.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E3\obj\Debug\E3.pdb

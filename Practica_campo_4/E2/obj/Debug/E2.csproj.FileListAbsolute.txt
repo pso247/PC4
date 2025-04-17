@@ -1,0 +1,7 @@
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E2\bin\Debug\E2.exe.config
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E2\bin\Debug\E2.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E2\bin\Debug\E2.pdb
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E2\obj\Debug\E2.csproj.AssemblyReference.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E2\obj\Debug\E2.csproj.CoreCompileInputs.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E2\obj\Debug\E2.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Practica_campo_4\E2\obj\Debug\E2.pdb
